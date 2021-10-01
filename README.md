@@ -1,4 +1,4 @@
-# QuickGuide
+# User Guide
 
 To start This Web application please put the Node-Modules inside the client and server. 
 
